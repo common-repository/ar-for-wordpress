@@ -1,0 +1,35 @@
+{
+    "1.0": [
+      {"modelTypeID": "1", "modelType": "100%"},
+      {"modelTypeID": "1.5", "modelType": "150%"},
+      {"modelTypeID": "2", "modelType": "200%"},
+      {"modelTypeID": "2.5", "modelType": "250%"},
+      {"modelTypeID": "3", "modelType": "300%"},
+      {"modelTypeID": "4", "modelType": "400%"},
+      {"modelTypeID": "5", "modelType": "500%"}
+    ],
+    "1.4142": [
+      {"modelTypeID": "1", "modelType": "A4 21.0 x 29.7cm / 8.3 x 11.7in"},
+      {"modelTypeID": "1.41", "modelType": "A3 29.7 x 42cm / 11.7 x 16.5in"},
+      {"modelTypeID": "2", "modelType": "A2 42 x 59.4cm / 16.5 x 23.4in"},
+      {"modelTypeID": "2.83", "modelType": "A1 59.4 x 84.1cm / 23.4 x 33.1in"}
+    ],
+    "1.25": [
+      {"modelTypeID": "1", "modelType": "20 x 25cm / 8 x 10in"},
+      {"modelTypeID": "1.5", "modelType": "30.5 x 38.0cm / 12 x 15in"},
+      {"modelTypeID": "2", "modelType": "41 x 51cm /16 x 20in"},
+      {"modelTypeID": "3", "modelType": "61 x 76cm / 24 x 30in"}
+    ],
+    "1.5": [
+      {"modelTypeID": "1", "modelType": "20 x 30cm / 8 x 12in"},
+      {"modelTypeID": "1.5", "modelType": "30 x 46cm / 12 x 18in"},
+      {"modelTypeID": "2", "modelType": "41 x 51cm / 16 x 24in"},
+      {"modelTypeID": "2.5", "modelType": "51 x 76cm / 20 x 30in"}
+    ],
+    "1.33": [
+      {"modelTypeID": "1", "modelType": "23 x 30cm / 9 x 12in"},
+      {"modelTypeID": "1.3", "modelType": "30 x 41cm/ 12 x 16in"},
+      {"modelTypeID": "1.6", "modelType": "38 x 51cm/ 15 x 20in"},
+      {"modelTypeID": "2", "modelType": "46 x 61cm / 18 x 24in"}
+    ]
+  }
